@@ -1,6 +1,6 @@
 py_msg
 ======
 
-Module for storing and processing message dumps
+Python module for storing and processing message dumps.
 
-Currently undocumented until I've finished using this module in another project. 
+This module will remain undocumented until I've finished using it in another project. 
